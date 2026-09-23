@@ -47,7 +47,7 @@ A migration inicial do projeto é:
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/matheusmarcelino1/cp5-taskmanager-api.git
 ```
 
 ### 2. Acesse a pasta do projeto
