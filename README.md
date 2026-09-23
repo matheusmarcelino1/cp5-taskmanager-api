@@ -4,9 +4,10 @@ API RESTful desenvolvida em C# com ASP.NET Core .NET 10 e Entity Framework Core 
 
 ## Integrantes
 
+* Douglas dos Santos Melo — RM556439
+* Henrique Sanches — RM557959
 * Matheus Marcelino Dantas da Silva — RM556332
-* Adicionar integrante — RM
-* Adicionar integrante — RM
+* Nicolas Caciolato Reis — RM556506
 
 ## Contexto do Projeto
 
